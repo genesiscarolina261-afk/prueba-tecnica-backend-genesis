@@ -127,4 +127,4 @@ Un documento en estado `approved` o `rejected` no puede volver a modificarse.
 
 ## Video de demostración
 
-[Pendiente: agregar enlace aquí]
+https://drive.google.com/file/d/1sK66GE5L-IkG-p33DLP2isH_nJ1jMVyK/view?usp=sharing
